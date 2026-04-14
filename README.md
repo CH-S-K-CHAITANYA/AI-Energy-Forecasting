@@ -91,21 +91,21 @@ Raw CSV → Preprocessing → Feature Engineering → Model Training → Evaluat
 
 ## 📁 Project Structure
 
+```bash
 AI-Energy-Forecasting/
-├── data/
-├── src/
-├── models/
-├── outputs/
-├── notebooks/
-├── docs/
+│
+├── 📂 data/
+├── 📂 src/
+├── 📂 models/
+├── 📂 outputs/
+├── 📂 notebooks/
+├── 📂 docs/
+│
 ├── main.py
 ├── app.py
 ├── requirements.txt
 └── README.md
-
-
 ---
-
 ## ⚙️ Installation
 
 git clone https://github.com/YOUR_USERNAME/AI-Energy-Forecasting  
