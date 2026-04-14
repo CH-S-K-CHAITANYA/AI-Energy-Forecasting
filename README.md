@@ -104,8 +104,11 @@ AI-Energy-Forecasting/
 ├── main.py
 ├── app.py
 ├── requirements.txt
-└── README.md
+└── README.
+
+```
 ---
+
 ## ⚙️ Installation
 
 git clone https://github.com/YOUR_USERNAME/AI-Energy-Forecasting  
@@ -161,8 +164,12 @@ MIT License
 
 <div align="center">
 
-Built by CH S K CHAITANYA
+**Built by [CH S K CHAITANYA]**
 
-If this project helped you, please star the repository!
+If this project helped you, please ⭐ star the repository!
+
+[![GitHub stars](https://img.shields.io/github/stars/CH-S-K-CHAITANYA/AI-Energy-Forecasting?style=social)](https://github.com/CH-S-K-CHAITANYA/AI-Energy-Forecasting.git)
 
 </div>
+
+[LinkedIn](http://linkedin.com/in/chskchaitanya) | [GitHub](http://github.com/CH-S-K-CHAITANYA)
